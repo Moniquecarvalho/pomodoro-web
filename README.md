@@ -11,11 +11,11 @@ Projeto desenvolvido como parte do programa Vai na Web, com o objetivo de criar 
 
 **Desktop**
 
-![Screenshot da versão para desktop](./assets/gif/capture.gif)
+![Screenshot da versão para desktop](./img/capture-desktop.gif)
 
 **Mobile**
 
-![Screenshot da versão para desktop](./assets/gif/capture.gif)
+![Screenshot da versão para desktop](./img/capture-mobile.gif)
 
 
 ## Tecnologias Utilizadas
