@@ -4,7 +4,7 @@ Projeto desenvolvido como parte do programa Vai na Web, com o objetivo de criar 
 
 ## Demonstração ao Vivo
 
-[Acesse a demonstração ao vivo](https://moniquecarvalho.github.io/verde-acao-projeto-vai-na-web/)
+[Acesse a demonstração ao vivo](https://moniquecarvalho.github.io/pomodoro-web/)
 
 
 ## Screenshots
